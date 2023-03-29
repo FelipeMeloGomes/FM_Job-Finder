@@ -41,6 +41,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS.
 - JavaScript.
 - NodeJs.
+- Bootstrap.
 - DB Browser for SQLite.
 
 ## 📚 Conceitos aprendidos no projeto
@@ -51,6 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Responsividade.
 - Inserção de dados no banco via postman.
 - Framework Nodejs.
+- Framework Bootstrap.
 - Handlebars.
 
 
